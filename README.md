@@ -38,4 +38,4 @@ Whether you're looking for simple spreadsheet tricks or advanced analytical tech
 ## 📌 How to Use
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/Abdullah2139/Excel-project.git
+   git clone https://github.com/Abdullah2139/Excel_project.git
